@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/agentue/:/"
+    "/content/edsstg/:/"
   ],
   "includes": [
-    "/content/agentue/"
+    "/content/edsstg/"
   ]
 }
