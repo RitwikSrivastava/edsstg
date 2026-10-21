@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p102255-e237034-cmstg.adobeaemcloud.com/bin/franklin.delivery/RitwikSrivastava/agentue/main"
+    url: "https://author-p102255-e344380-cmstg.adobeaemcloud.com/bin/franklin.delivery/RitwikSrivastava/edsstg/main"
     type: "markup"
     suffix: ".html"
