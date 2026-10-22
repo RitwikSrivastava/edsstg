@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/edsstg/:/"
+    "/content/edsstage/:/"
   ],
   "includes": [
-    "/content/edsstg/"
+    "/content/edsstage/"
   ]
 }
